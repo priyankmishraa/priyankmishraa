@@ -1,28 +1,33 @@
-<h1 align="center">Hi there! 👋 I'm Priyank Mishra</h1>
-<h3 align="center">A passionate Data Engineer from India</h3>
+# Priyank Mishra
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=priyankmishraa&label=Profile%20views&color=0e75b6&style=flat" alt="priyankmishraa" /> 
-</p>
+**Data & Cloud Solutions Architect**
 
-- 🌱 I'm a tech enthusiast, and I share my knowledge on [YouTube](https://www.youtube.com/channel/UCr6MwbMIUks4ZpkTkv17Luw).
+I design data platforms, then live with them in production. That second part is where most of my opinions come from.
 
-- 💬 Ask me about **Data Engineering, DevOps, and Backend Development.**
+13+ years across data engineering, cloud architecture and platform delivery. Most of my work is enterprise modernisation: moving companies off legacy ETL onto Snowflake, Databricks and AWS, and making the result something a team can actually operate.
 
-- 📫 How to reach me: **contactpriyankmishra@gmail.com**
+Most AI programmes do not fail on the model. They fail on the data underneath it.
 
-- ⚡ Fun fact: **I am a fitness enthusiast and a long-distance runner.**
+## Stack
 
-<h3 align="left">Connect with me:</h3>
-<p align="center">
-  <a href="https://twitter.com/PriyankMishraa" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_priyankmishra_" height="30" width="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/priyankmishraa/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/priyank-mishra-the-data-guy/" height="30" width="40" />
-  </a>
-</p>
+Snowflake, Databricks, Delta Lake, Unity Catalog, Iceberg, dbt, Airflow, PySpark, Kafka
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyankmishraa&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark" alt="Priyank Mishra's GitHub Stats" />
-</p>
+AWS: Glue, EMR, Lambda, Step Functions, Athena, Redshift, S3, Lake Formation, SageMaker
+
+Terraform, GitHub Actions, Docker, Python, SQL, Scala
+
+## What I am building here
+
+Small, real projects that test what new platform features actually do. Build a working pipeline, break it the way it breaks in production, then fix it. The failure is the interesting part, not the feature.
+
+## Writing and video
+
+I share production lessons on YouTube, LinkedIn and X. Mostly what happens after the architecture diagram becomes a system somebody has to support at 2 AM.
+
+YouTube: https://www.youtube.com/@priyankmishraa
+
+LinkedIn: https://www.linkedin.com/in/priyankmishraa
+
+X: https://x.com/priyankmishraa
+
+Reach me at me@priyankmishra.in
