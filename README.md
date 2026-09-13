@@ -2,8 +2,6 @@
 
 **Data & Cloud Solutions Architect**
 
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white) ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white) ![Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white) ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white) ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
 ---
 
 I build data platforms on Snowflake, Databricks and AWS.
@@ -20,11 +18,17 @@ I build a pipeline. I break it. Then I fix it. I write down what I learned.
 
 ### Stack
 
-**Data** Snowflake · Databricks · Delta Lake · Unity Catalog · Iceberg · dbt · Airflow · PySpark · Kafka
+**Data**
 
-**AWS** Glue · EMR · Lambda · Step Functions · Athena · Redshift · S3 · Lake Formation · SageMaker
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white) ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white) ![Delta Lake](https://img.shields.io/badge/Delta%20Lake-00ADD4?style=for-the-badge) ![Unity Catalog](https://img.shields.io/badge/Unity%20Catalog-FF3621?style=for-the-badge) ![Iceberg](https://img.shields.io/badge/Apache%20Iceberg-1E7FCB?style=for-the-badge&logo=apacheiceberg&logoColor=white) ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white) ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white) ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white) ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 
-**Platform** Terraform · GitHub Actions · Docker · Python · SQL · Scala
+**AWS**
+
+![Glue](https://img.shields.io/badge/AWS%20Glue-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white) ![EMR](https://img.shields.io/badge/EMR-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white) ![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white) ![Step Functions](https://img.shields.io/badge/Step%20Functions-FF4F8B?style=for-the-badge&logo=amazonwebservices&logoColor=white) ![Athena](https://img.shields.io/badge/Athena-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white) ![Redshift](https://img.shields.io/badge/Redshift-8C4FFF?style=for-the-badge&logo=amazonredshift&logoColor=white) ![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white) ![Lake Formation](https://img.shields.io/badge/Lake%20Formation-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white) ![SageMaker](https://img.shields.io/badge/SageMaker-01A88D?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+
+**Platform**
+
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge) ![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
 
 ### Where I write
 
